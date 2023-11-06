@@ -16,6 +16,21 @@ areaConfigurations:
     fr: "Azerbaïdjan"
     nl: "Azerbeidzjan"
     no: "Aserbajdsjan"
+- areaCode: "bt"
+  elections:
+    national:
+      dates:
+        1: "2008-03-24"
+        2: "2013-05-31+2013-07-13"
+        3: "2018-09-15+2018-10-18"
+        4: "2023-11-30+2024-01-09"
+  translations:
+    de: "Bhutan"
+    en: "Bhutan"
+    eo: "Butano"
+    fr: "Bhoutan"
+    nl: "Bhutan"
+    no: "Bhutan"
 - areaCode: "ge"
   # Should be synchronized between Asia and Europe
   csvConfiguration:
