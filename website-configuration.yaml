@@ -16,6 +16,22 @@ areaConfigurations:
     fr: "Azerbaïdjan"
     nl: "Azerbeidzjan"
     no: "Aserbajdsjan"
+- areaCode: "bd"
+  elections:
+    national:
+      dates:
+        19: "2001-10-01"
+        20: "2008-12-29"
+        21: "2014-01-05"
+        22: "2018-12-30"
+        23: "2024-01-07"
+  translations:
+    de: "Bangladesch"
+    en: "Bangladesh"
+    eo: "Bangladeŝo"
+    fr: "Bangladesh"
+    nl: "Bangladesh"
+    no: "Bangladesh"
 - areaCode: "bt"
   elections:
     national:
