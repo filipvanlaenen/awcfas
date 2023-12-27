@@ -131,6 +131,22 @@ areaConfigurations:
     fr: "Maldives"
     nl: "Malediven"
     no: "Maldivene"
+- areaCode: "pk"
+  elections:
+    national:
+      dates:
+        14: "2002-10-10"
+        15: "2008-02-18"
+        16: "2013-05-11"
+        17: "2018-07-25"
+        18: "2024-02-08"
+  translations:
+    de: "Pakistan"
+    en: "Pakistan"
+    eo: "Pakistano"
+    fr: "Pakistan"
+    nl: "Pakistan"
+    no: "Pakistan"
 - areaCode: "ru"
   # Should be synchronized between Asia and Europe
   csvConfiguration:
