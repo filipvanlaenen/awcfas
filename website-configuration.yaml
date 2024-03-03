@@ -132,6 +132,17 @@ areaConfigurations:
     nl: "Malediven"
     no: "Maldivene"
 - areaCode: "pk"
+  csvConfiguration:
+    electoralListIds:
+    - "PK001"
+    - "PK002"
+    - "PK003"
+    - "PK004"
+    - "PK005"
+    - "PK006"
+    - "PK007"
+    - "PK008"
+    - "PK009"
   elections:
     national:
       dates:
