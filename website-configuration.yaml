@@ -70,6 +70,7 @@ areaConfigurations:
     - "GE017"
     - "GE018"
     - "GE014+GE015"
+    - "GE019"
   elections:
     national:
       dates:
