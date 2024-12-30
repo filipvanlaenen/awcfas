@@ -316,6 +316,7 @@ areaConfigurations:
         15: "2016-01-16"
         16: "2020-01-11"
         17: "2024-01-13"
+        18: "≤2028-01"
     presidential:
       dates:
         2: "2000-03-18"
@@ -325,6 +326,7 @@ areaConfigurations:
         6: "2016-01-16"
         7: "2020-01-11"
         8: "2024-01-13"
+        9: "≈2028-01"
   translations:
     de: "Taiwan"
     en: "Taiwan"
