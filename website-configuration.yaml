@@ -1,4 +1,6 @@
 ---
+id: AWCFAS
+name: Asia
 areaConfigurations:
 - areaCode: "az"
   # Should be synchronized between Asia and Europe
@@ -159,6 +161,33 @@ areaConfigurations:
     fr: "Maldives"
     nl: "Malediven"
     no: "Maldivene"
+- areaCode: "ph"
+  elections:
+    national:
+      dates:
+        28: "2001-05-14"
+        29: "2004-05-10"
+        30: "2007-05-14"
+        31: "2010-05-10"
+        32: "2013-05-13"
+        33: "2016-05-09"
+        34: "2019-05-13"
+        35: "2022-05-09"
+        36: "2025-05-12"
+    presidential:
+      dates:
+        14: "2004-05-10"
+        15: "2010-05-10"
+        16: "2016-05-09"
+        17: "2022-05-09"
+        18: "2028-05-13"
+  translations:
+    de: "Philippinen"
+    en: "Philippines"
+    eo: "Filipinoj"
+    fr: "Philippines"
+    nl: "Filipijnen"
+    no: "Filippinene"
 - areaCode: "pk"
   csvConfiguration:
     electoralListIds:
