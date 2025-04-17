@@ -109,6 +109,33 @@ areaConfigurations:
     fr: "Géorgie"
     nl: "Georgië"
     no: "Georgia"
+- areaCode: "kr"
+  elections:
+    national:
+      dates:
+        17: "2000-04-13"
+        18: "2004-04-15"
+        19: "2008-04-09"
+        20: "2012-04-11"
+        21: "2016-04-13"
+        22: "2020-04-15"
+        23: "2024-04-10"
+        24: "≤2028-04-12"
+    presidential:
+      dates:
+        17: "2002-12-19"
+        18: "2007-12-19"
+        19: "2012-12-19"
+        20: "2017-05-09"
+        21: "2022-03-09"
+        22: "2025-06-03"
+  translations:
+    de: "Südkorea"
+    en: "South Korea"
+    eo: "Sud-Koreio"
+    fr: "Corée du Sud"
+    nl: "Zuid-Korea"
+    no: "Sør-Korea"
 - areaCode: "kz"
   # Should be synchronized between Asia and Europe
   elections:
