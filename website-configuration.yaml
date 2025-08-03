@@ -164,6 +164,24 @@ areaConfigurations:
     fr: "Kazakhstan"
     nl: "Kazachstan"
     no: "Kasakhstan"
+- areaCode: "mo"
+  elections:
+    national:
+      dates:
+        8: "2001-09-23"
+        9: "2005-09-25"
+        10: "2009-09-20"
+        11: "2013-09-15"
+        12: "2017-09-17"
+        13: "2021-09-12"
+        14: "2025-09-14"
+  translations:
+    de: "Macau"
+    en: "Macau"
+    eo: "Makao"
+    fr: "Macao"
+    nl: "Macau"
+    no: "Macao"
 - areaCode: "mv"
   elections:
     national:
