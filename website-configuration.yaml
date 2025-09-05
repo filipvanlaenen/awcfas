@@ -258,15 +258,16 @@ areaConfigurations:
 - areaCode: "pk"
   csvConfiguration:
     electoralListIds:
-    - "PK001"
-    - "PK002"
-    - "PK003"
-    - "PK004"
-    - "PK005"
-    - "PK006"
-    - "PK007"
-    - "PK008"
-    - "PK009"
+    - "PK199601"
+    - "PK196701"
+    - "PK199201"
+    - "PK201601"
+    - "PK201701"
+    - "PK198601"
+    - "PK201501"
+    - "PK194501"
+    - "PK201702"
+    - "PK194701"
   elections:
     national:
       dates:
