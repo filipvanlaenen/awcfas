@@ -110,6 +110,24 @@ areaConfigurations:
     fr: "Géorgie"
     nl: "Georgië"
     no: "Georgia"
+- areaCode: "hk"
+  elections:
+    national:
+      dates:
+        7: "2000-09-10"
+        8: "2004-09-12"
+        9: "2008-09-07"
+        10: "2012-09-09"
+        11: "2016-09-04"
+        12: "2021-12-19"
+        13: "2025-12-07"
+  translations:
+    de: "Hongkong"
+    en: "Hong Kong"
+    eo: "Honkongo"
+    fr: "Hong Kong"
+    nl: "Hongkong"
+    no: "Hongkong"
 - areaCode: "iq"
   elections:
     national:
