@@ -139,6 +139,12 @@ areaConfigurations:
     - "KG200701"
     - "KG199901"
     - "KG200602"
+    - "KG199902"
+    - "KG201201"
+    - "KG201101"
+    - "KG201202"
+    - "KG202101"
+    - "KG201901"
   elections:
     national:
       dates:
