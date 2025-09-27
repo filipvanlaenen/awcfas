@@ -111,6 +111,15 @@ areaConfigurations:
     nl: "Georgië"
     no: "Georgia"
 - areaCode: "hk"
+  csvConfiguration:
+    electoralListIds:
+    - "HK199401"
+    - "HK199201"
+    - "HK199601"
+    - "HK199301"
+    - "HK200301"
+    - "HK199001"
+    - "HK198601"
   elections:
     national:
       dates:
