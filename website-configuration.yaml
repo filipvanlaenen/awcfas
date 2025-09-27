@@ -130,6 +130,15 @@ areaConfigurations:
     nl: "Irak"
     no: "Irak"
 - areaCode: "kg"
+  csvConfiguration:
+    electoralListIds:
+    - "KG199201"
+    - "KG199301"
+    - "KG200601"
+    - "KG201001"
+    - "KG200701"
+    - "KG199901"
+    - "KG200602"
   elections:
     national:
       dates:
