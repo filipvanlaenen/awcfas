@@ -120,6 +120,12 @@ areaConfigurations:
     - "HK200301"
     - "HK199001"
     - "HK198601"
+    - "HK200601"
+    - "HK200602"
+    - "HK194801"
+    - "HK201101"
+    - "HK201102"
+    - "HK201103"
   elections:
     national:
       dates:
