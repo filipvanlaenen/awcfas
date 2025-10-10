@@ -126,6 +126,11 @@ areaConfigurations:
     - "HK201101"
     - "HK201102"
     - "HK201103"
+    - "HK200602+HK201102"
+    - "HK201001+HK201201+HK201401"
+    - "HK201202"
+    - "HK201601"
+    - "HK201602"
   elections:
     national:
       dates:
@@ -260,6 +265,21 @@ areaConfigurations:
     fr: "Kazakhstan"
     nl: "Kazachstan"
     no: "Kasakhstan"
+- areaCode: "mm"
+  elections:
+    national:
+      dates:
+        15: "2010-11-07"
+        16: "2015-11-08"
+        17: "2020-11-08"
+        18: "2025-12-28"
+  translations:
+    de: "Myanmar"
+    en: "Myanmar"
+    eo: "Birmo"
+    fr: "Birmanie"
+    nl: "Myanmar"
+    no: "Myanmar"
 - areaCode: "mo"
   elections:
     national:
