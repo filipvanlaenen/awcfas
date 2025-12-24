@@ -599,6 +599,23 @@ areaConfigurations:
     fr: "Taïwan"
     nl: "Taiwan"
     no: "Taiwan"
+- areaCode: "vn"
+  elections:
+    national:
+      dates:
+        6: "2002-05-19"
+        7: "2007-05-20"
+        8: "2011-05-22"
+        9: "2016-05-22"
+        10: "2021-05-23"
+        11: "2026-03-15"
+  translations:
+    de: "Vietnam"
+    en: "Vietnam"
+    eo: "Vjetnamio"
+    fr: "Vietnam"
+    nl: "Vietnam"
+    no: "Vietnam"
 widgetsConfiguration:
   tableFontFamily: "Alegreya Sans,'Helvetica Neue',Helvetica,sans-serif"
   tableStylesheets:
