@@ -30,6 +30,14 @@ areaConfigurations:
     nl: "Azerbeidzjan"
     no: "Aserbajdsjan"
 - areaCode: "bd"
+  csvConfiguration:
+    electoralListIds:
+    - "BD202501"
+    - "BD194101"
+    - "BD197801"
+    - "BD194901"
+    - "BD198701"
+    - "BD198601"
   elections:
     national:
       dates:
