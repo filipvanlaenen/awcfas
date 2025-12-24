@@ -268,6 +268,23 @@ areaConfigurations:
     fr: "Kazakhstan"
     nl: "Kazachstan"
     no: "Kasakhstan"
+- areaCode: "la"
+  elections:
+    national:
+      dates:
+        13: "2002-02-24"
+        14: "2006-04-30"
+        15: "2011-04-30"
+        16: "2016-03-20"
+        17: "2021-02-21"
+        18: "2026-02-22"
+  translations:
+    de: "Laos"
+    en: "Laos"
+    eo: "Laoso"
+    fr: "Laos"
+    nl: "Laos"
+    no: "Laos"
 - areaCode: "mm"
   elections:
     national:
