@@ -358,6 +358,11 @@ areaConfigurations:
     - "NP195001"
     - "NP199101"
     - "NP199401"
+    - "NP202101"
+    - "NP202102"
+    - "NP202201"
+    - "NP202001"
+    - "NP199001"
   elections:
     national:
       dates:
