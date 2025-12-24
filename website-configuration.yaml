@@ -353,6 +353,11 @@ areaConfigurations:
     nl: "Malediven"
     no: "Maldivene"
 - areaCode: "np"
+  csvConfiguration:
+    electoralListIds:
+    - "NP195001"
+    - "NP199101"
+    - "NP199401"
   elections:
     national:
       dates:
