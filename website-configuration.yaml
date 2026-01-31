@@ -178,6 +178,17 @@ areaConfigurations:
     nl: "Irak"
     no: "Irak"
 - areaCode: "jp"
+  csvConfiguration:
+    electoralListIds:
+    - "JP199801"
+    - "JP195501"
+    - "JP201201"
+    - "JP199802"
+    - "JP200901"
+    - "JP192201"
+    - "JP201202"
+    - "JP199601"
+    - "JP201203"
   elections:
     national:
       dates:
