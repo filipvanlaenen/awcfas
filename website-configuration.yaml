@@ -193,6 +193,7 @@ areaConfigurations:
     - "JP201701"
     - "JP201501"
     - "JP201204"
+    - "JP201702"
   elections:
     national:
       dates:
