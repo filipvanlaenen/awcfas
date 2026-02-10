@@ -202,6 +202,8 @@ areaConfigurations:
     - "JP202301"
     - "JP202302"
     - "JP202501"
+    - "JP202601"
+    - "JP202602"
   elections:
     national:
       dates:
