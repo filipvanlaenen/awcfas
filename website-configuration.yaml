@@ -343,6 +343,17 @@ areaConfigurations:
     nl: "Laos"
     no: "Laos"
 - areaCode: "lb"
+  csvConfiguration:
+    electoralListIds:
+    - "LB198201"
+    - "LB201901"
+    - "LB197601"
+    - "LB199401"
+    - "LB199501"
+    - "LB193601"
+    - "LB197401"
+    - "LB194901"
+    - "SY193101"
   elections:
     national:
       dates:
