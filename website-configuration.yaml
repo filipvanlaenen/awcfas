@@ -159,6 +159,24 @@ areaConfigurations:
     nl: "Hongkong"
     no: "Hongkong"
 - areaCode: "il"
+  csvConfiguration:
+    electoralListIds:
+    - "IL196901"
+    - "IL197301"
+    - "IL197901+IL198301"
+    - "IL197701"
+    - "IL197101"
+    - "IL197302"
+    - "IL195601"
+    - "IL198401"
+    - "IL191201"
+    - "IL197401"
+    - "IL194801"
+    - "IL198402" 
+    - "IL197701+IL198403" 
+    - "IL197901"
+    - "IL198403"
+    - "IL198301"  
   electedBodies:
   - id: "ass"
     electionDates:
