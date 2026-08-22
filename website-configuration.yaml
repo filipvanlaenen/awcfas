@@ -188,6 +188,8 @@ areaConfigurations:
     - "IL191201+IL195601+IL198401+IL198402+IL198803"
     - "IL198803"
     - "IL198403+IL198801"
+    - "IL197901+IL198701+IL198805"
+    - "IL199201"
   electedBodies:
   - id: "ass"
     electionDates:
