@@ -204,6 +204,11 @@ areaConfigurations:
     - "IL200801"
     - "IL200701"
     - "IL200702"
+    - "IL201201"
+    - "IL198802+IL199901"
+    - "IL201202"
+    - "IL201203"
+    - "IL201204"
   electedBodies:
   - id: "ass"
     electionDates:
@@ -682,6 +687,7 @@ areaConfigurations:
     - "2016-09-18"
     - "2021-09-17&2021-09-18&2021-09-19"
     - "2026-09-18&2026-09-19&2026-09-20"
+    - "≤2031-09"
     properNames:
       ru: "Государственная дума"
     translatedNames:
