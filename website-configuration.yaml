@@ -663,6 +663,19 @@ areaConfigurations:
     nl: "Pakistan"
     no: "Pakistan"
 - areaCode: "ps"
+  csvConfiguration:
+    electoralListIds:
+    - "PS195901"
+    - "PS198701"
+    - "PS196701"
+    - "PS198101"
+    - "PS198201"
+    - "PS199101"
+    - "PS196901"
+    - "PS196401"
+    - "PS200201"
+    - "PS200601"
+    - "PS200501"
   electedBodies:
   - id: "lc"
     electionDates:
