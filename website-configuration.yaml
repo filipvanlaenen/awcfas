@@ -662,6 +662,44 @@ areaConfigurations:
     fr: "Pakistan"
     nl: "Pakistan"
     no: "Pakistan"
+- areaCode: "ps"
+  electedBodies:
+  - id: "lc"
+    electionDates:
+    - "1996-01-20"
+    - "2006-01-25"
+    - "2026-11-28"
+    properNames:
+      ar: "المجلس التشريعي"
+    translatedNames:
+      de: "Legislativrat"
+      en: "Legislative Council"
+      eo: "Leĝdona Konsilio"
+      fr: "Conseil législatif"
+      nl: "Wetgevende Raad"
+      no: "Lovgivende forsamling"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1996-01-20"
+    - "2005-01-09"
+    - "≈2027"
+    properNames:
+      ar: "رئيس دولة"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
+  translations:
+    de: "Palästinensische Autonomiebehörde"
+    en: "Palestinian Authority"
+    eo: "Palestina Aŭtonomio"
+    fr: "Autorité palestinienne"
+    nl: "Palestijnse Autoriteit"
+    no: "Den palestinske selvstyremyndigheten"
 - areaCode: "ru"
   # Should be synchronized between Asia and Europe
   csvConfiguration:
