@@ -681,7 +681,7 @@ areaConfigurations:
     electionDates:
     - "1996-01-20"
     - "2006-01-25"
-    - "2026-11-28"
+    - "2027-09-11"
     properNames:
       ar: "المجلس التشريعي"
     translatedNames:
@@ -696,7 +696,7 @@ areaConfigurations:
     electionDates:
     - "1996-01-20"
     - "2005-01-09"
-    - "≈2027"
+    - "2027-09-11"
     properNames:
       ar: "رئيس دولة"
     translatedNames:
